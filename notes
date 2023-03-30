@@ -1,0 +1,13 @@
+Authentication with JWT
+ - json web tokens are one of the method to implement authentication
+ - 
+
+
+Auth Routes
+ - using an MVC approach
+ 
+ > /signup  (GET)  signUp page  
+ > /login   (GET)  login page  
+ > /signup  (POST) create a new user in db  
+ > /login   (POST) authenticate current user
+ > /logout  (GET)  log out user
